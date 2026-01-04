@@ -2,3 +2,4 @@ one
 two 
 four
 five
+var topic = "main"
